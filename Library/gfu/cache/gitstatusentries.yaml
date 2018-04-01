@@ -1,0 +1,1127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 65ad34d65dbee064d822143e7dd3bd2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-04-01T16:43:50.7382341+08:00
+  initializedAtString: 2018-04-01T10:33:09.0025165+08:00
+  entries:
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assembly-CSharp-Editor-firstpass.csproj"
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-firstpass.csproj
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assembly-CSharp-firstpass.csproj"
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp.csproj
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assembly-CSharp.csproj"
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\assetDatabase3"
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins.meta"
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub.meta"
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor.meta"
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\CREDITS.txt"
+    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\CREDITS.txt.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\EULA.txt
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\EULA.txt"
+    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\EULA.txt.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll.mdb"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll.mdb.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll.mdb"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll.mdb.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll.mdb"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll.mdb.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\ICSharpCode.SharpZipLib.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\ICSharpCode.SharpZipLib.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Mono.Security.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Mono.Security.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux\\git-lfs.zip"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux\\git-lfs.zip.md5"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux\\git-lfs.zip.md5.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux\\git-lfs.zip.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux\\gitconfig"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\linux\\gitconfig.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac\\git-lfs.zip"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac\\git-lfs.zip.md5"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac\\git-lfs.zip.md5.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac\\git-lfs.zip.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac\\gitconfig"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\mac\\gitconfig.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git-lfs.zip"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git-lfs.zip.md5"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git-lfs.zip.md5.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git-lfs.zip.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git.zip"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git.zip.md5"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git.zip.md5.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\git.zip.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\gitconfig"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\PlatformResources\\windows\\gitconfig.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Resources.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Resources.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Resources\\octorun.zip"
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Resources\\octorun.zip.md5"
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Resources\\octorun.zip.md5.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\Resources\\octorun.zip.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x64.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x86.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll.meta"
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\EditorInstance.json"
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\branches.yaml"
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\gitlocks.yaml"
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\gitlog.yaml"
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\gitstatusentries.yaml"
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\gituser.yaml"
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\gfu\\cache\\repoinfo.yaml"
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\01\\0188ec438976e5849b40a2c1ce5f20f9"
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\01\\0188ec438976e5849b40a2c1ce5f20f9.info"
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\09\092bda2c04f79cf488fc58d20f666ee6
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\09\\092bda2c04f79cf488fc58d20f666ee6"
+    projectPath: Library\metadata\09\092bda2c04f79cf488fc58d20f666ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\09\092bda2c04f79cf488fc58d20f666ee6.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\09\\092bda2c04f79cf488fc58d20f666ee6.info"
+    projectPath: Library\metadata\09\092bda2c04f79cf488fc58d20f666ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\13\\136dc24f151211d438acee17aff4e934"
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\13\\136dc24f151211d438acee17aff4e934.info"
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\14\\1404afef655b1ce49bfa0ef83799bf50"
+    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\14\\1404afef655b1ce49bfa0ef83799bf50.info"
+    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\15\\151a1d946b98deb4b98445400983ba92"
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\15\\151a1d946b98deb4b98445400983ba92.info"
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\15\\15ca2bebf173f2d4484686a03a45b56d"
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\15\\15ca2bebf173f2d4484686a03a45b56d.info"
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\1b\\1bf89c9fbca28724a8d8fbcf427c47f4"
+    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\1b\\1bf89c9fbca28724a8d8fbcf427c47f4.info"
+    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\21\\21206c65839f84d0e9ae14bc1fdc68db"
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\21\\21206c65839f84d0e9ae14bc1fdc68db.info"
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\23\\23c8bee69b591054094d32918f98facd"
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\23\\23c8bee69b591054094d32918f98facd.info"
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\25a203cccd1f4b44fb8b3ad43ec8cd0c
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\25\\25a203cccd1f4b44fb8b3ad43ec8cd0c"
+    projectPath: Library\metadata\25\25a203cccd1f4b44fb8b3ad43ec8cd0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\25a203cccd1f4b44fb8b3ad43ec8cd0c.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\25\\25a203cccd1f4b44fb8b3ad43ec8cd0c.info"
+    projectPath: Library\metadata\25\25a203cccd1f4b44fb8b3ad43ec8cd0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\34\\342ebfa2c8e06a24c8b445cf2f2d9784"
+    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\34\\342ebfa2c8e06a24c8b445cf2f2d9784.info"
+    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\34\\349a2940a5f0bb2428b4689b369e3b60"
+    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\34\\349a2940a5f0bb2428b4689b369e3b60.info"
+    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\36\\36f73b0d4842ba7448027c0215f522b1"
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\36\\36f73b0d4842ba7448027c0215f522b1.info"
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\48\\48c22d5d7479fcb49ab3be0cdd2ccec0"
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\48\\48c22d5d7479fcb49ab3be0cdd2ccec0.info"
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\59\\598f7cc167e65424284e573aff0f1294"
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\59\\598f7cc167e65424284e573aff0f1294.info"
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\63\\636d33ae594884e7d80b569f429d245d"
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\63\\636d33ae594884e7d80b569f429d245d.info"
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\65\65ad34d65dbee064d822143e7dd3bd2c
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\65\\65ad34d65dbee064d822143e7dd3bd2c"
+    projectPath: Library\metadata\65\65ad34d65dbee064d822143e7dd3bd2c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\65\65ad34d65dbee064d822143e7dd3bd2c.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\65\\65ad34d65dbee064d822143e7dd3bd2c.info"
+    projectPath: Library\metadata\65\65ad34d65dbee064d822143e7dd3bd2c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\67\\67a48bef50c8f384ab614ca4fd2f1d25"
+    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\67\\67a48bef50c8f384ab614ca4fd2f1d25.info"
+    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\6d\\6daa66f23a1e5324caec116fb03ca529"
+    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\6d\\6daa66f23a1e5324caec116fb03ca529.info"
+    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\79\\790749ba7e4b18141953e39cb13f1b79"
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\79\\790749ba7e4b18141953e39cb13f1b79.info"
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\7c\\7cc881bea450edc4ca7114e23fad3cee"
+    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\7c\\7cc881bea450edc4ca7114e23fad3cee.info"
+    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\82\82cf4199ab8e24d49ac1fa540739e6c5
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\82\\82cf4199ab8e24d49ac1fa540739e6c5"
+    projectPath: Library\metadata\82\82cf4199ab8e24d49ac1fa540739e6c5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\82\82cf4199ab8e24d49ac1fa540739e6c5.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\82\\82cf4199ab8e24d49ac1fa540739e6c5.info"
+    projectPath: Library\metadata\82\82cf4199ab8e24d49ac1fa540739e6c5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\85\\853cace4d6a11bc47b18d8c391da84bd"
+    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\85\\853cace4d6a11bc47b18d8c391da84bd.info"
+    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\86\\868fbb4c41814baebc00f96e24ede2f8"
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\86\\868fbb4c41814baebc00f96e24ede2f8.info"
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\99\\99b48d4d4f6a66340ab06bd487d70a45"
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\99\\99b48d4d4f6a66340ab06bd487d70a45.info"
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\a0\\a0ded7adcc817ce489fec07977f16d13"
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\a0\\a0ded7adcc817ce489fec07977f16d13.info"
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\a1\\a1ae072c6d0a6fe42881de7c5c8d66eb"
+    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\a1\\a1ae072c6d0a6fe42881de7c5c8d66eb.info"
+    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\a8\\a83159a46d87d2a4f8cec651049b9231"
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\a8\\a83159a46d87d2a4f8cec651049b9231.info"
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\b4\\b455a70c012793a4d94fe976e18140af"
+    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\b4\\b455a70c012793a4d94fe976e18140af.info"
+    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\b8\\b88cae02c8fab6e47999b50827bb1530"
+    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\b8\\b88cae02c8fab6e47999b50827bb1530.info"
+    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ba\\ba8ad3e6c5be01e448c1f3593515049c"
+    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ba\\ba8ad3e6c5be01e448c1f3593515049c.info"
+    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\bc\\bc9a5f6325c0832408624f471a6c1425"
+    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\bc\\bc9a5f6325c0832408624f471a6c1425.info"
+    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c1\\c1eb0d289ecf9f34bbd08287ab6c2d87"
+    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c1\\c1eb0d289ecf9f34bbd08287ab6c2d87.info"
+    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c5\\c5c83d14802e712408f23409f3c59e26"
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c5\\c5c83d14802e712408f23409f3c59e26.info"
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c6\\c6d6cc705b2fa53448f26dd682a4a938"
+    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c6\\c6d6cc705b2fa53448f26dd682a4a938.info"
+    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c7\\c743ae24ee231884887054d20ccdd0ae"
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\c7\\c743ae24ee231884887054d20ccdd0ae.info"
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ca\\ca9ef9f91d24fab40addaf0deaf60506"
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ca\\ca9ef9f91d24fab40addaf0deaf60506.info"
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ca\\cad92998c5182496e8b989b406d9f156"
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ca\\cad92998c5182496e8b989b406d9f156.info"
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\d3\\d301b02d403f0b14da47c02442ad3731"
+    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\d3\\d301b02d403f0b14da47c02442ad3731.info"
+    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\d5\\d516f2a1bec6a9645a084ef8c9237132"
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\d5\\d516f2a1bec6a9645a084ef8c9237132.info"
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\dd\\ddb8611e748af425a82a497ac5a98c0c"
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\dd\\ddb8611e748af425a82a497ac5a98c0c.info"
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ec\\ecfb28d906a32914d956497c8d3b3395"
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\ec\\ecfb28d906a32914d956497c8d3b3395.info"
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\f9\\f9fc9b08ecd899944adf9860b4abd6b6"
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\f9\\f9fc9b08ecd899944adf9860b4abd6b6.info"
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\fe\\fe5abeadcbe591e4fa9107fbc02f3998"
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Library\\metadata\\fe\\fe5abeadcbe591e4fa9107fbc02f3998.info"
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\ProcessJobs\\e9a6970f79cd12d8b075e7d72f1b07cb.bakert"
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\TarGZ\archtemp.tar
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\TarGZ\\archtemp.tar"
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\UnityLockfile"
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-02b10709a04672249b871ac91afbda65
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\UnityTempFile-02b10709a04672249b871ac91afbda65"
+    projectPath: Temp\UnityTempFile-02b10709a04672249b871ac91afbda65
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-19b05873c9a41b84a857b1b6ebbe01a4
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\UnityTempFile-19b05873c9a41b84a857b1b6ebbe01a4"
+    projectPath: Temp\UnityTempFile-19b05873c9a41b84a857b1b6ebbe01a4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5c656bc1562febe4283df8d03ce42204
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\UnityTempFile-5c656bc1562febe4283df8d03ce42204"
+    projectPath: Temp\UnityTempFile-5c656bc1562febe4283df8d03ce42204
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: "C:\\Users\\\u62C9\u99AC\\Documents\\MiniMap\\Temp\\__Backupscenes\\0.backup"
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0

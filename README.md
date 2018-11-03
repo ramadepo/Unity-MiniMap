@@ -9,4 +9,4 @@ MiniMap Note
 
 The graph that Camera ***B*** take will be showed on the Raw Image ***C***
 
-And in this little project, I also add some FPS element and conbine my another project **Unity-Socket Test**, just use the **Client.exe** to create enemies.
+And in this little project, also add some FPS element and conbine another project **Unity-Socket Test**, just use the **Client.exe** to create enemies.
